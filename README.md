@@ -1,6 +1,8 @@
 ## hello world, Bem-vindo ao Meu GitHub!!!📚👩🏼‍💻
 
-![GIF Animado](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
+
+![GIF Animado](https://centraldecursos.com/wp-content/uploads/2015/12/apresentacao-power-point-74.gif)
+
 
 
 ## Sobre Mim
@@ -14,8 +16,8 @@
 -Estarei sempre aberta a networkings e colaborações nas atividades que eu postar aqui.
 
 
+![GIF Animado](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
-![GIF Animado](https://centraldecursos.com/wp-content/uploads/2015/12/apresentacao-power-point-74.gif)
 
 
 ## Estatísticas
