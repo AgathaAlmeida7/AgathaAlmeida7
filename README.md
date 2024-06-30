@@ -1,13 +1,12 @@
 #hello world, Bem-vindo ao Meu GitHub!!!📚👩🏼‍💻
 
-![Banner](https://cdn.pixabay.com/photo/2024/06/01/14/00/ai-8802304_1280.jpg)
+![GIF Animado](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
 
 ## Sobre Mim
 Olá! Eu sou [Agatha Joana Almeida Silva], uma futura analista de sistemas, amante da tecnologia e que está disposta a contribuir na vida das pessoas.
 
-![GIF Animado](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
-
+![GIF Animado](https://centraldecursos.com/wp-content/uploads/2015/12/apresentacao-power-point-74.gif)
 
 
 ## Estatísticas
