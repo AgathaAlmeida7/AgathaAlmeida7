@@ -34,6 +34,6 @@ Email: [joanaagatha19@gmail.com](mailto:joanaagatha19@gmail.com)
 
 - Tecnologia front end,back end java,back end phyton
 - Linguagem de Programação c,phyton,java
-
+- figma,ingles e espanhol
 
 
