@@ -1,10 +1,9 @@
-# Bem-vindo ao Meu GitHub
+#hello world, Bem-vindo ao Meu GitHub!!!📚👩🏼‍💻
 
-![Banner](![image](https://github.com/AgathaAlmeida7/AgathaAlmeida7/assets/157054882/d074b5c1-0b29-4c83-ac93-0ed6d0593816)
-)
+![Banner](![image](https://cdn.pixabay.com/photo/2024/06/01/14/00/ai-8802304_1280.jpg  )
 
 ## Sobre Mim
-Olá! Eu sou [AGATHA JOANA ALMEIDA SILVA], uma futura analista de sistemas, amante da tecnologia e que está disposta a contribuir na vida das pessoas.
+Olá! Eu sou [Agatha Joana Almeida Silva], uma futura analista de sistemas, amante da tecnologia e que está disposta a contribuir na vida das pessoas.
 
 ![GIF Animado](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
