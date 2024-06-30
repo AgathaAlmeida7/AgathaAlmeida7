@@ -16,12 +16,9 @@ Olá! Eu sou [Agatha Joana Almeida Silva], uma futura analista de sistemas, aman
 
 
 #Meios de contatos comigo
-
-1) - - [LinkedIn](https://www.linkedin.com/in/agathaalmeiida7)
-
-2) -- - [WhatsApp](https://wa.me/5581991896620)
-
-3) -- - Email: [joanaagatha19@gmail.com](mailto:joanaagatha19@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/agathaalmeiida7)
+ [WhatsApp](https://wa.me/5581991896620)
+Email: [joanaagatha19@gmail.com](mailto:joanaagatha19@gmail.com)
 
 
 ## Skills
