@@ -1,10 +1,5 @@
 ## hello world, Bem-vindo ao Meu GitHub!!!📚👩🏼‍💻
 
-
-![GIF Animado](https://centraldecursos.com/wp-content/uploads/2015/12/apresentacao-power-point-74.gif)
-
-
-
 ## Sobre Mim
 
 -Olá! Eu sou Agatha Joana Almeida Silva, uma futura analista de sistemas, amante da tecnologia e disposta a contribuir para a vida das pessoas.
