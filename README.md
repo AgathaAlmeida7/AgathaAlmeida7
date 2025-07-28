@@ -53,9 +53,7 @@
 
 ---
 
-## 🐍 Animação de Contribuições
 
-![Snake animation](https://github.com/AgathaAlmeida7/AgathaAlmeida7/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
