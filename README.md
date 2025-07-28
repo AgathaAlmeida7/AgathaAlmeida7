@@ -27,12 +27,16 @@
 
 ---
 
-## 🔥 Estatísticas do GitHub
+## 📊 Visual de Dados
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AgathaAlmeida7&show_icons=true&theme=chartreuse-dark"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaAlmeida7&theme=chartreuse-dark"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/null/external-data-science-data-analytics-flaticons-lineal-color-flat-icons.png" width="100"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/100/null/external-analytics-data-science-flat-flat-juicy-fish.png" width="100"/>
+  <img src="https://img.icons8.com/external-wanicon-flat-wanicon/100/null/external-machine-learning-data-science-wanicon-flat-wanicon.png" width="100"/>
+  <img src="https://img.icons8.com/color/100/null/combo-chart--v1.png" width="100"/>
 </div>
+
+<p align="center">💡 *Espaço reservado para exibir estatísticas e gráficos reais dos projetos quando forem adicionados.*</p>
 
 ---
 
@@ -49,6 +53,15 @@
   <a href="mailto:joanaagatha19@gmail.com">
     <img src="https://img.shields.io/badge/-Email-228B22?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/agathaalmeiida7/">
+    <img src="https://img.shields.io/badge/-LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<h4 align="center">✨ "Transformando dados em oportunidades." ✨</h4>
+
   <a href="https://www.linkedin.com/in/agathaalmeiida7/">
     <img src="https://img.shields.io/badge/-LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
