@@ -1,5 +1,3 @@
-
-
 <h1 align="center">🐍 Agatha Almeida</h1>
 <h3 align="center">Estudante de ADS • Futura Cientista de Dados Júnior</h3>
 
@@ -17,8 +15,8 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<div align="center" style="background-color:#006400; border-radius: 10px; padding: 20px; display: inline-block;">
+  <img src="https://img.shields.io/badge/Python-006400?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-107C10?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Estatística-006400?style=for-the-badge&logo=databricks&logoColor=white"/>
 </div>
@@ -45,15 +43,11 @@
 
 ## 📊 Linguagem em Evolução
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<div align="center" style="background-color:#006400; border-radius: 10px; padding: 20px; display: inline-block;">
+  <img src="https://img.shields.io/badge/Python-006400?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 <p align="center">🚀 Atualmente focada em aprofundar meus conhecimentos em <strong>Python</strong> e <strong>SQL</strong> para Ciência de Dados.</p>
-
----
-
-
 
 ---
 
@@ -70,5 +64,5 @@
 
 ---
 
-<h4 align="center">✨ "Transformando dados em oportunidades." ✨</h4>
+<h4 align="center">✨ "Transformando dados em oportunidades." ✨</h4> 
 
