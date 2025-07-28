@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/Estatística-2E8B57?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
 ---
@@ -31,12 +33,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AgathaAlmeida7&show_icons=true&theme=chartreuse-dark"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaAlmeida7&theme=chartreuse-dark"/>
 </div>
-
----
-
-## 🐍 Animação de Contribuições
-
-![Snake animation](https://github.com/AgathaAlmeida7/AgathaAlmeida7/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
