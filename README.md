@@ -1,3 +1,8 @@
+<!-- Banner Principal -->
+<p align="center">
+  <img src="https://github.com/AgathaAlmeida7/AgathaAlmeida7/blob/main/banner.png" alt="Banner Agatha Almeida - Ciência de Dados" width="100%">
+</p>
+
 <h1 align="center">🐍 Agatha Almeida</h1>
 <h3 align="center">Estudante de ADS • Futura Cientista de Dados Júnior</h3>
 
@@ -16,19 +21,19 @@
 ## 🛠️ Tecnologias que Estou Aprendendo
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3C873A?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/SQL%20Server-107C10?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matemática-006400?style=for-the-badge&logo=academia&logoColor=white"/>
 </div>
 
 ---
 
-## 📚 Estudos Atuais
+## 📊 Rumo à Ciência de Dados
 
-- 🐍 Fundamentos de **Python** e algoritmos  
-- 🗄️ **Banco de Dados** e consultas SQL (SQL Server)  
-- 📐 **Matemática aplicada** à análise de dados  
-- 🚧 Construção de primeiros projetos para portfólio
+📈 **Python** → Fundamentos, lógica e manipulação de dados  
+🗄️ **SQL Server** → Consultas, modelagem e análise de dados  
+📐 **Matemática** → Estatística básica e álgebra  
+🧠 **Próximos Passos** → Análise de Dados, Dashboards e Machine Learning  
 
 ---
 
@@ -37,6 +42,14 @@
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AgathaAlmeida7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaAlmeida7&theme=chartreuse-dark"/>
+</div>
+
+---
+
+## 📊 Linguagens em Evolução
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaAlmeida7&layout=compact&theme=chartreuse-dark"/>
 </div>
 
 ---
