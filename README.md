@@ -1,7 +1,4 @@
-<!-- Banner Principal -->
-<p align="center">
-  <img src="https://github.com/AgathaAlmeida7/AgathaAlmeida7/blob/main/banner.png" alt="Banner Agatha Almeida - Ciência de Dados" width="100%">
-</p>
+
 
 <h1 align="center">🐍 Agatha Almeida</h1>
 <h3 align="center">Estudante de ADS • Futura Cientista de Dados Júnior</h3>
