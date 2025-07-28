@@ -25,15 +25,6 @@
 
 ---
 
-## 📊 Caminho para Ciência de Dados
-
-🔹 **Python** → Fundamentos, lógica, manipulação e análise de dados  
-🔹 **SQL Server** → Modelagem, consultas e banco de dados para análise  
-🔹 **Matemática & Estatística** → Base teórica para machine learning  
-🔹 **Próximos Passos** → Dashboards, Visualização de Dados e Machine Learning  
-
----
-
 ## 🔥 Estatísticas do GitHub
 
 <div align="center">
