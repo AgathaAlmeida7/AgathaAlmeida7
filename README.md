@@ -13,27 +13,28 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (5º período)**  
 💻 Bolsista do programa **Embarque Digital** (Prefeitura do Recife + Porto Digital)  
 📊 Em transição para a área de **Ciência de Dados**  
-📚 Estudando **Python, SQL Server, Matemática** e lógica de programação  
+📚 Estudando **Python, SQL Server, Matemática e Estatística** para análise de dados  
 🌎 Inglês em evolução (A1 ➡️ A2)  
 
 ---
 
-## 🛠️ Tecnologias que Estou Aprendendo
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/SQL%20Server-107C10?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matemática-006400?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Estatística-006400?style=for-the-badge&logo=databricks&logoColor=white"/>
 </div>
 
 ---
 
 ## 📊 Rumo à Ciência de Dados
 
-📈 **Python** → Fundamentos, lógica e manipulação de dados  
-🗄️ **SQL Server** → Consultas, modelagem e análise de dados  
-📐 **Matemática** → Estatística básica e álgebra  
-🧠 **Próximos Passos** → Análise de Dados, Dashboards e Machine Learning  
+🔹 **Python** → Fundamentos, lógica, manipulação e análise de dados  
+🔹 **SQL Server & PostgreSQL** → Modelagem, consultas e banco de dados para análise  
+🔹 **Matemática & Estatística** → Base teórica para machine learning  
+🔹 **Próximos Passos** → Dashboards, Visualização de Dados e Machine Learning  
 
 ---
 
@@ -46,11 +47,13 @@
 
 ---
 
-## 📊 Linguagens em Evolução
+## 📊 Linguagem em Evolução
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaAlmeida7&layout=compact&theme=chartreuse-dark"/>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
 </div>
+
+<p align="center">🚀 Atualmente focada em aprofundar meus conhecimentos em <strong>Python</strong> e <strong>SQL</strong> para Ciência de Dados.</p>
 
 ---
 
@@ -74,5 +77,4 @@
 ---
 
 <h4 align="center">✨ "Transformando dados em oportunidades." ✨</h4>
-
 
