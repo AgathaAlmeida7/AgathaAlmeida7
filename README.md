@@ -29,16 +29,12 @@
 
 ## 📊 Estatísticas dos Projetos
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AgathaAlmeida7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaAlmeida7&theme=chartreuse-dark"/>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AgathaAlmeida7&show_icons=true&theme=chartreuse-dark&hide_title=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaAlmeida7&layout=compact&langs_count=6&theme=chartreuse-dark&hide_title=true"/>
 </div>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaAlmeida7&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-
-<p align="center">📈 *Essas estatísticas irão se atualizar automaticamente conforme eu criar e evoluir meus projetos.*</p>
+<p align="center">📈 *Essas estatísticas se atualizarão automaticamente conforme novos projetos forem adicionados.*</p>
 
 ---
 
@@ -66,4 +62,5 @@
 ---
 
 <h4 align="center">✨ "Transformando dados em oportunidades." ✨</h4>
+
 
