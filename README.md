@@ -1,61 +1,65 @@
-# 👋 Olá, eu sou a Agatha Almeida!
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | 5º período  
-🚀 Em transição para Ciência de Dados | Futura Cientista de Dados Júnior  
-🎯 Foco em Python, SQL Server e Matemática aplicada à Ciência de Dados  
+<h1 align="center">🐍 Agatha Almeida</h1>
+<h3 align="center">Estudante de ADS • Futura Cientista de Dados Júnior</h3>
 
 ---
 
-## 👩‍🎓 Sobre mim
+## 🚀 Sobre Mim
 
-Sou estudante apaixonada por dados e tecnologia, bolsista do programa **Embarque Digital** — parceria entre a Prefeitura do Recife e o Porto Digital.  
-Atualmente estudo Python, SQL Server e matemática, construindo uma base sólida para seguir carreira em Ciência de Dados.  
-Ainda estou no início da jornada e me dedico a aprender continuamente para alcançar meu objetivo de ser Cientista de Dados Júnior.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (5º período)**  
+💻 Bolsista do programa **Embarque Digital** (Prefeitura do Recife + Porto Digital)  
+📊 Em transição para a área de **Ciência de Dados**  
+📚 Estudando **Python, SQL Server, Matemática** e lógica de programação  
+🌎 Inglês em evolução (A1 ➡️ A2)  
 
 ---
 
-## 🛠️ Tecnologias & Conhecimentos
+## 🛠️ Tecnologias que Estou Aprendendo
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlserver" alt="Tecnologias" />
-</div>
-
-- Linguagem Python (fundamentos e lógica de programação)  
-- Banco de dados SQL Server (consultas e modelagem básica)  
-- Matemática para Ciência de Dados (estatística básica, álgebra)  
-
----
-
-## 📚 Estudos & Planos
-
-- Aprimorando habilidades em Python e SQL Server  
-- Estudando matemática aplicada para análise e modelagem de dados  
-- Planejando os primeiros projetos práticos em Ciência de Dados  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AgathaAlmeida7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaAlmeida7&theme=radical" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Python-3C873A?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-107C10?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matemática-006400?style=for-the-badge&logo=academia&logoColor=white"/>
 </div>
 
 ---
 
-## 📫 Contato
+## 📚 Estudos Atuais
+
+- 🐍 Fundamentos de **Python** e algoritmos  
+- 🗄️ **Banco de Dados** e consultas SQL (SQL Server)  
+- 📐 **Matemática aplicada** à análise de dados  
+- 🚧 Construção de primeiros projetos para portfólio
+
+---
+
+## 🔥 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AgathaAlmeida7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaAlmeida7&theme=chartreuse-dark"/>
+</div>
+
+---
+
+## 🐍 Animação de Contribuições
+
+![Snake animation](https://github.com/AgathaAlmeida7/AgathaAlmeida7/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Vamos nos Conectar!
 
 <div align="center">
   <a href="mailto:joanaagatha19@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-228B22?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/agathaalmeiida7/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
 ---
 
-> _“Construindo conhecimento, linha por linha de código.”_
+<h4 align="center">✨ "Transformando dados em oportunidades." ✨</h4>
 
 
