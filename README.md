@@ -20,7 +20,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B"/>
   <img src="https://img.shields.io/badge/SQL%20Server-107C10?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Estatística-006400?style=for-the-badge&logo=databricks&logoColor=white"/>
 </div>
 
