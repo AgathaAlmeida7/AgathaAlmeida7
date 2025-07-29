@@ -38,14 +38,7 @@
 
 <p align="center">📈 *Essas estatísticas se atualizarão automaticamente conforme novos projetos forem adicionados.*</p>
 
----
 
-## 📦 Próximos Projetos
-
-- 📂 **Pipeline Básico de Ciência de Dados: Vendas & Visualização** *(em andamento)*  
-- 📂 **Dashboard de Indicadores de Vendas** *(planejado)*  
-
----
 
 ## 📫 Vamos nos Conectar!
 
