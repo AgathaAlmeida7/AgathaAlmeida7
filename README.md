@@ -40,7 +40,7 @@
 
 
 
-## 📫 Vamos nos Conectar!
+## 📫 Vamos nos Conectar!!
 
 <div align="center">
   <a href="mailto:joanaagatha19@gmail.com">
