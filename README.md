@@ -1,4 +1,4 @@
-<h4 align="center">✨ "Transformando dados em oportunidades." ✨</h4>
+<h4 align="center">✨ Transformando dados em oportunidades. ✨</h4>
 
 <h1 align="center">🐍 Agatha Almeida</h1>
 <h3 align="center">Estudante de ADS • Futura Cientista de Dados Júnior</h3>
