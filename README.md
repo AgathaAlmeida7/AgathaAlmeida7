@@ -9,20 +9,9 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (5º período)**  <br>
 💻 Bolsista do programa **Embarque Digital** (Prefeitura do Recife + Porto Digital)  <br>
 📊 Em transição para **Ciência de Dados** <br>
+📚 Estudando: **Python, SQL, Estatística, Excel e Power BI** <br>
+🛠️ Ferramentas: **VS Code, SQL Server Management Studio 19** <br>
 🌎 Idiomas: Inglês (**A2 em evolução**), Espanhol (**A1**)  
-</div>
-
----
-
-## 🛠️ Skills & Progress
-<div align="center" style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
-  <img src="https://img.shields.io/badge/Python-10%25-informational?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/SQL-40%25-success?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-30%25-warning?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-50%25-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Estatística-35%25-purple?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-80%25-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SSMS-60%25-darkgray?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 
 ---
@@ -30,26 +19,31 @@
 ## 📂 Projetos em Andamento
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-<div style="border-radius: 10px; padding: 15px; width: 320px; background: linear-gradient(135deg,#6A5ACD,#00BFFF); color: white; text-align: center;">
+<div style="border-radius: 10px; padding: 15px; width: 300px; background: linear-gradient(135deg,#6A5ACD,#00BFFF); color: white; text-align: center;">
 <h4>🗺️ Mapa de Segurança Urbana</h4>
-Banco de dados relacional (**SQL Server**) para **coleta, consulta e análise de dados sobre ocorrências policiais, áreas de risco, crimes, vítimas, tipos de delitos, horários e locais**. <br>
+Banco de dados relacional usando **SQL Server** <br>
 <sub>🚀 Projeto em andamento – saindo este mês!</sub>
 </div>
 
-<div style="border-radius: 10px; padding: 15px; width: 320px; background: linear-gradient(135deg,#FF7F50,#FF6347); color: white; text-align: center;">
+<div style="border-radius: 10px; padding: 15px; width: 300px; background: linear-gradient(135deg,#FF7F50,#FF6347); color: white; text-align: center;">
 <h4>🔥 Churn Prediction</h4>
-Previsão de cancelamento de clientes usando **Python & SQL** para que empresas possam agir antes da saída do cliente, oferecendo **promoções, melhor atendimento ou soluções personalizadas**. <br>
-<sub>🚀 Projeto em andamento – saindo em breve!</sub>
+Previsão de cancelamento de clientes usando **Python & SQL** <br>
+<sub>🚀 Projeto em andamento – saindo este mês!</sub>
 </div>
 
 </div>
 
 ---
 
-## 🛠️ Ferramentas
-<div align="center" style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+## 🛠️ Tecnologias & Ferramentas
+<div align="center" style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Estatística-6A5ACD?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SSMS-2F4F4F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
 
 ---
@@ -66,4 +60,3 @@ Previsão de cancelamento de clientes usando **Python & SQL** para que empresas 
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
-
