@@ -20,15 +20,11 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
 <div style="border-radius: 10px; padding: 15px; width: 300px; background: linear-gradient(135deg,#6A5ACD,#00BFFF); color: white; text-align: center;">
-<h4>🗺️ Mapa de Segurança Urbana</h4>
-Banco de dados relacional usando **SQL Server** <br>
-<sub>🚀 Projeto em andamento – saindo este mês!</sub>
-</div>
 
 <div style="border-radius: 10px; padding: 15px; width: 300px; background: linear-gradient(135deg,#FF7F50,#FF6347); color: white; text-align: center;">
 <h4>🔥 Churn Prediction</h4>
 Previsão de cancelamento de clientes usando **Python & SQL** <br>
-<sub>🚀 Projeto em andamento – saindo este mês!</sub>
+<sub>🚀 Projeto em andamento – saindo este mês de outubro!</sub>
 </div>
 
 </div>
