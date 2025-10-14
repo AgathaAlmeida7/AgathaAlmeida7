@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou a Agatha Almeida
 
-![Coding GIF](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
+![Coding GIF](https://cdn.dribbble.com/users/594393/screenshots/14508930/media/a0c3dd10e43c03e9d2452276e09ae089.gif)
 
-🎯 **Objetivo:** Me especializar em **Data Analysis** e também evoluir em **Backend com Python**  
+🎯 **Objetivo:** Me especializar em **Data Analysis** e evoluir em **Backend com Python**  
 
 💻 Foco em transformar dados em **insights valiosos** e criar soluções eficientes.  
 
@@ -10,23 +10,22 @@
 
 ## 🛠️ Skills & Tecnologias
 
-Visualizando minhas principais skills com **badges e percentuais GitHub style**:
+Visualizando minhas principais skills com **badges e percentuais baseados no uso em projetos**:
 
-| Tecnologia | Nível de estudo |
-|------------|----------------|
+| Tecnologia | Percentual de uso em projetos |
+|------------|-------------------------------|
 | ![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python) | 85% |
-| ![Flask](https://img.shields.io/badge/Flask-60%25-lightgrey?style=for-the-badge&logo=flask) | 60% |
-| ![SQL](https://img.shields.io/badge/SQL-70%25-orange?style=for-the-badge&logo=postgresql) | 70% |
-| ![Excel](https://img.shields.io/badge/Excel-75%25-green?style=for-the-badge&logo=microsoft-excel) | 75% |
-| ![Power BI](https://img.shields.io/badge/PowerBI-50%25-yellow?style=for-the-badge&logo=microsoft-powerbi) | 50% |
+| ![Flask](https://img.shields.io/badge/Flask-50%25-lightgrey?style=for-the-badge&logo=flask) | 50% |
+| ![SQL](https://img.shields.io/badge/SQL-65%25-orange?style=for-the-badge&logo=postgresql) | 65% |
 
-> Foco em **Python + Flask, SQL e Excel** para análise e desenvolvimento backend.
+> Foco em **Python + Flask + SQL**, aplicadas diretamente nos projetos do meu portfólio.
 
 ---
 
 ## 📂 Projetos em Andamento
 
 - 📝 **CRUD Lista em Python** – iniciando projeto para praticar **manipulação de listas e lógica em Python**  
+- 🔐 **Sistema de Login Defesa** – ✅ concluído, desenvolvido com **Python + Flask + SQL**  
 
 > Projetos curtos e objetivos para **aprender, inovar e mostrar minha paixão por dados**  
 
@@ -42,3 +41,4 @@ Visualizando minhas principais skills com **badges e percentuais GitHub style**:
 ---
 
 💌 Vamos explorar dados e criar soluções **inteligentes e impactantes juntos!**
+
