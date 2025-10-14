@@ -1,33 +1,37 @@
-# 👋 Olá, eu sou a Agatha Almeida
+# 👋 Olá, sou Agatha Almeida
 
+🎯 **Objetivo profissional:** Especializar-me em **Data Analysis** e aprimorar minhas habilidades em **Backend com Python**.
 
-🎯 **Objetivo:** Me especializar em **Data Analysis** e evoluir em **Backend com Python**  
+💻 **Ferramentas e Tecnologias que utilizo no meu dia a dia:**
 
-💻 Foco em transformar dados em **insights valiosos** e criar soluções eficientes.  
-
----
-
-## 🛠️ Skills & Tecnologias
-
-Visualizando minhas principais skills com **badges e percentuais baseados no uso em projetos**:
-
-| Tecnologia |
-|------------|-------------------------------|
-| ![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python) 
-| ![Flask](https://img.shields.io/badge/Flask-50%25-lightgrey?style=for-the-badge&logo=flask) 
-| ![SQL](https://img.shields.io/badge/SQL-65%25-orange?style=for-the-badge&logo=postgresql) 
-
-> Foco em **Python + Flask + SQL**, aplicadas diretamente nos projetos do meu portfólio.
+![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-75%25-orange?style=for-the-badge&logo=postgresql)
+![Flask](https://img.shields.io/badge/Flask-60%25-lightgrey?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-70%25-lightgreen?style=for-the-badge&logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-80%25-blueviolet?style=for-the-badge&logo=visualstudiocode)
+![Excel](https://img.shields.io/badge/Excel-65%25-yellow?style=for-the-badge&logo=microsoftexcel)
 
 ---
 
-## 📂 Projetos em Andamento
+## 📊 GitHub Stats
 
-- 📝 **CRUD Lista em Python** – iniciando projeto para praticar **manipulação de listas e lógica em Python**  
-- 🔐 **Sistema de Login Defesa** – ✅ concluído, desenvolvido com **Python + Flask + SQL**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)
 
-> Projetos curtos e objetivos para **aprender, inovar e mostrar minha paixão por dados**  
+---
 
+## 🧠 Linguagens mais utilizadas
 
-💌 Vamos explorar dados e criar soluções **inteligentes e impactantes juntos!**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula)
+
+---
+
+## 📂 Projetos em andamento
+
+- 🛒 **Mini E-commerce** – Análise de dados de vendas e comportamento de clientes.
+- 📉 **Churn Prediction** – Estudo preditivo para identificar clientes em risco de cancelamento.
+- 🔐 **Sistema de Login Defesa** – Construção de um sistema seguro com Python e Flask.
+
+---
+
+💌 Vamos explorar dados e criar soluções eficientes e impactantes juntos!
 
