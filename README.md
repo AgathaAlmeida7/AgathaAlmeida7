@@ -1,56 +1,44 @@
-# 👋 Olá, bem-vindo ao meu GitHub!  
+# 👋 Olá, eu sou a Agatha Almeida
 
-🎉 Aqui você vai conhecer meu **universo de dados, estudos e projetos em andamento**.  
+![Coding GIF](https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif)
 
----
+🎯 **Objetivo:** Me especializar em **Data Analysis** e também evoluir em **Backend com Python**  
 
-## 🖐️ Ei, eu sou Agatha Almeida  
-
-💻 Estudante no último período de **Análise e Desenvolvimento de Sistemas**  
-🎯 Foco: **Data Analysis / Desenvolvimento Junior**  
-📊 Transformando dados em **insights que fazem diferença**  
+💻 Foco em transformar dados em **insights valiosos** e criar soluções eficientes.  
 
 ---
 
-## 🛠️ Minhas Ferramentas e Skills
+## 🛠️ Skills & Tecnologias
 
-Aqui estão minhas principais ferramentas para explorar e analisar dados:
+Visualizando minhas principais skills com **badges e percentuais GitHub style**:
 
-- 🐍 **Python** – análise de dados, automações e APIs com Flask  
-- 💾 **SQL** – manipulação e consultas de bancos de dados  
-- 🗂️ **Excel** – relatórios, dashboards e análise manual de dados  
-- 📊 **Power BI** – dashboards interativos e visualizações impactantes  
+| Tecnologia | Nível de estudo |
+|------------|----------------|
+| ![Python](https://img.shields.io/badge/Python-85%25-blue?style=for-the-badge&logo=python) | 85% |
+| ![Flask](https://img.shields.io/badge/Flask-60%25-lightgrey?style=for-the-badge&logo=flask) | 60% |
+| ![SQL](https://img.shields.io/badge/SQL-70%25-orange?style=for-the-badge&logo=postgresql) | 70% |
+| ![Excel](https://img.shields.io/badge/Excel-75%25-green?style=for-the-badge&logo=microsoft-excel) | 75% |
+| ![Power BI](https://img.shields.io/badge/PowerBI-50%25-yellow?style=for-the-badge&logo=microsoft-powerbi) | 50% |
 
-**Bibliotecas Python:** Pandas, NumPy, Matplotlib, Seaborn, SciPy  
+> Foco em **Python + Flask, SQL e Excel** para análise e desenvolvimento backend.
 
 ---
 
-## 📂 Projetos em andamento
+## 📂 Projetos em Andamento
 
-💡 Estou trabalhando em projetos práticos para aplicar meus conhecimentos em dados:
+- 📝 **CRUD Lista em Python** – iniciando projeto para praticar **manipulação de listas e lógica em Python**  
 
-- 🛒 **Mini E-commerce** – estudo de dados de vendas e comportamento de usuários  
-- 📉 **Churn Prediction** – análise preditiva para identificar clientes em risco de cancelamento  
-- 🔐 **Sistema de Login Defesa** – construção de um sistema seguro com Python e Flask  
-
-> Todos esses projetos estão sendo desenvolvidos para **aprimorar minhas skills e portfólio de dados**  
+> Projetos curtos e objetivos para **aprender, inovar e mostrar minha paixão por dados**  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
 
 ---
 
-## 🎯 Sobre mim
-
-💡 Sou apaixonada por **transformar dados em decisões inteligentes**  
-🛠️ Sempre buscando novas técnicas e boas práticas de análise de dados  
-🚀 Meu objetivo é atuar como **Analista de Dados / Desenvolvedora Junior**  
-
----
-
-> 💌 Vamos explorar dados e criar soluções **eficientes e impactantes juntos!**
-
+💌 Vamos explorar dados e criar soluções **inteligentes e impactantes juntos!**
