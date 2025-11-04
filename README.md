@@ -39,9 +39,9 @@ Acredito que saber **criar aplicações** e **analisar dados** me torna uma prof
 
 ## 🌎 Let's Connect!
 
-📧 **Email:** [joanaagatha19@gmail.com](mailto:joanaagatha19@gmail.com)
-💼 **LinkedIn:** [www.linkedin.com/in/agatha-almeida](https://www.linkedin.com/in/agatha-almeida) *(adicione seu link completo aqui)*
-🐙 **GitHub:** [github.com/AgathaAlmeida7](https://github.com/AgathaAlmeida7)
+📧 **Email:** [joanaagatha19@gmail.com)
+💼 **LinkedIn:**  *(https://www.linkedin.com/in/agathaalmeiida7/)*
+
 
 ---
 
