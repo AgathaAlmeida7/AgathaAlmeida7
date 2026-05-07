@@ -45,6 +45,7 @@ Acredito que saber **criar aplicações** e **analisar dados** me torna uma prof
 
 📧 **Email:** [joanaagatha19@gmail.com](mailto:joanaagatha19@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/agathaalmeiida7](https://www.linkedin.com/in/agathaalmeiida7/)  
+💼 **Whatsapp** (81 9 9918-5467)
 
 ---
 
