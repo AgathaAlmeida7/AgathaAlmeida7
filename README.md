@@ -1,47 +1,77 @@
-# 👋 Olá, eu sou a Agatha Almeida!
+# 👋 Olá, eu sou Agatha Almeida!
 
-💻 **Desenvolvedora Backend Python** | 📊 **Analista de Dados**
+## 📊 Analista de Dados | Python • SQL • Excel • Power BI
 
-Sou apaixonada por tecnologia e pelo poder dos dados.  
-Atualmente, venho desenvolvendo projetos com **Python**, **Flask**, **Django** e **SQL**, e também explorando o universo da **Análise de Dados**, utilizando **Excel** e **Power BI** para transformar dados em insights.
+Profissional de tecnologia com formação em **Análise e Desenvolvimento de Sistemas**, focada em **Análise de Dados** e na transformação de dados em informações para apoiar decisões.
 
----
+Tenho experiência prática com **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, PostgreSQL, Excel e Power BI**, atuando em **tratamento, exploração, análise estatística, visualização e geração de insights**.
 
-## 🚀 Minhas Stacks e Ferramentas
+Também possuo conhecimentos em desenvolvimento de software, o que fortalece minha capacidade de trabalhar com dados desde sua **extração e organização até a análise e apresentação dos resultados**.
 
-### 🧩 Linguagens e Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+🎯 **Objetivo:** atuar como **Analista de Dados Júnior**, desenvolvendo soluções orientadas por dados e evoluindo continuamente em **Estatística, Engenharia de Dados e Ciência de Dados**.
 
 ---
 
-### 📊 Ferramentas de Dados
+## 🛠️ Data Stack
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+**Linguagem & Análise**
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+**Banco de Dados**
+
+* SQL
+* PostgreSQL
+* MySQL
+
+**BI & Visualização**
+
+* Power BI
+* Excel
+
+**Fundamentos**
+
+* Estatística
+* Análise Exploratória de Dados (EDA)
+* Limpeza e transformação de dados
+* Modelagem de dados
+* Visualização de dados
+* KPIs e indicadores
+
+**Ferramentas**
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
 
 ---
 
-### ⚙️ Outras Tecnologias
+## 📈 O que você encontrará aqui
 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Projetos práticos de:
 
----
+* Análise Exploratória de Dados
+* SQL
+* Estatística aplicada
+* Visualização de Dados
+* Power BI
+* Excel
+* Projetos End-to-End de Dados
 
-## 💡 Sobre mim
-
-Sou uma pessoa curiosa, determinada e com grande interesse em unir **desenvolvimento backend** e **ciência de dados**.  
-Acredito que saber **criar aplicações** e **analisar dados** me torna uma profissional completa — capaz de desenvolver soluções inteligentes, escaláveis e orientadas por dados.
-
-🧠 Em constante aprendizado, busco evoluir todos os dias e compartilhar meus projetos e descobertas por aqui!
+**Transformar dados em insights. Transformar insights em decisões.**
 
 ---
 
 ## 🌎 Let's Connect!
+
+💼 LinkedIn
+💻 GitHub
+
 
 📧 **Email:** [joanaagatha19@gmail.com](mailto:joanaagatha19@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/agathaalmeiida7](https://www.linkedin.com/in/agathaalmeiida7/)  
